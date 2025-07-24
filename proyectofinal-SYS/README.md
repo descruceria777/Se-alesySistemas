@@ -38,3 +38,30 @@ ProyFinal_SyS_2025/
 │ ├── video_explicativo/ # Enlace al video (YouTube)
 │ └── dashboard_streamlit/ # Cuaderno Colab para ejecutar el dashboard
 └── referencias/ # Artículos, libros y recursos utilizados
+
+
+
+ **Explorar Simulaciones:**  
+   - Abrir los cuadernos de Jupyter/Colab en `resumen_conceptos_clave/` para ver ejemplos de FFT, filtros, QAM, etc.
+
+## Entregables
+- **Resumen Teórico:** Cuaderno Colab con conceptos clave y simulaciones.  
+- **Dashboard Interactivo:** Aplicación Streamlit para experimentar con parámetros del sistema.  
+- **Video Explicativo:** Disponible en YouTube (enlace en la carpeta `entregables/`).  
+
+## Fecha de Entrega
+**24 de julio de 2025**
+
+## Autores
+- [Daniel Santiago Escruceria Resero](https://github.com/amalvarezme/SenalesSistemas/tree/master/1_IntroduccionSyS)  
+- [Nombre del Estudiante 2](enlace a GitHub)  
+- [Nombre del Estudiante 3](enlace a GitHub)  
+
+## Licencia
+Este proyecto está bajo la licencia [MIT](LICENSE).  
+
+---
+
+### Notas Adicionales
+- Para contribuciones o reporte de errores, abrir un *issue* en el repositorio.  
+- El video debe explicar claramente la relación entre QAM, WiFi y 5G usando diagramas o animaciones.  
