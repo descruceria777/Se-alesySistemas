@@ -49,9 +49,6 @@ ProyFinal_SyS_2025/
 - **Dashboard Interactivo:** Aplicación Streamlit para experimentar con parámetros del sistema.  
 - **Video Explicativo:** Disponible en YouTube (enlace en la carpeta `entregables/`).  
 
-## Fecha de Entrega
-**24 de julio de 2025**
-
 ## Autores
 - [Daniel Santiago Escruceria Resero CC:1087107563]
 - [Darwin Arias CC:1053776364] 
@@ -63,5 +60,4 @@ ProyFinal_SyS_2025/
 - Para contribuciones o reporte de errores, abrir un *issue* en el repositorio.  
 - El video debe explicar claramente la relación entre QAM, WiFi y 5G usando diagramas o animaciones.
 
-###Enlace de video de youtobe 
--([...])
+
