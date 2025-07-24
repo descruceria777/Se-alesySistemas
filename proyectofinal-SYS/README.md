@@ -53,15 +53,15 @@ ProyFinal_SyS_2025/
 **24 de julio de 2025**
 
 ## Autores
-- [Daniel Santiago Escruceria Resero]([https://github.com/amalvarezme/SenalesSistemas/tree/master/1_IntroduccionSyS])  
-- [Nombre del Estudiante 2](enlace a GitHub)  
-- [Nombre del Estudiante 3](enlace a GitHub)  
-
-## Licencia
-Este proyecto está bajo la licencia [MIT](LICENSE).  
+- [Daniel Santiago Escruceria Resero CC:1087107563]
+- [Darwin Arias CC:1053776364] 
+- [Alexis Valencia CC:1088588394]
 
 ---
 
 ### Notas Adicionales
 - Para contribuciones o reporte de errores, abrir un *issue* en el repositorio.  
-- El video debe explicar claramente la relación entre QAM, WiFi y 5G usando diagramas o animaciones.  
+- El video debe explicar claramente la relación entre QAM, WiFi y 5G usando diagramas o animaciones.
+
+###Enlace de video de youtobe 
+-([...])
