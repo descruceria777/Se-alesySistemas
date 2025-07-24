@@ -42,7 +42,7 @@ ProyFinal_SyS_2025/
 
 
  **Explorar Simulaciones:**  
-   - Abrir los cuadernos de Jupyter/Colab en `resumen_conceptos_clave/` para ver ejemplos de FFT, filtros, QAM, etc.
+   - Abrir los cuadernos de Jupyter/Colab en `([https://github.com/descruceria777/Se-alesySistemas/blob/main/proyectofinal-SYS/PROYECTO_.ipynb]) para ver ejemplos de FFT, filtros, QAM, etc.
 
 ## Entregables
 - **Resumen Teórico:** Cuaderno Colab con conceptos clave y simulaciones.  
@@ -53,7 +53,7 @@ ProyFinal_SyS_2025/
 **24 de julio de 2025**
 
 ## Autores
-- [Daniel Santiago Escruceria Resero](https://github.com/amalvarezme/SenalesSistemas/tree/master/1_IntroduccionSyS)  
+- [Daniel Santiago Escruceria Resero]([https://github.com/amalvarezme/SenalesSistemas/tree/master/1_IntroduccionSyS])  
 - [Nombre del Estudiante 2](enlace a GitHub)  
 - [Nombre del Estudiante 3](enlace a GitHub)  
 
