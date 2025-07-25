@@ -42,7 +42,7 @@ Proyecto_Final/
 ## Entregables
 - **Resumen Teórico:** Cuaderno Colab con conceptos clave y simulaciones.  
 - **Dashboard Interactivo:** Aplicación Streamlit para experimentar con parámetros del sistema.  
-- **Video Explicativo:** Disponible en YouTube (enlace en la carpeta `entregables/`).  
+- **Video Explicativo:** Disponible en YouTube (enlace en la carpeta https://youtu.be/qZtHh14ZpIY?feature=shared).  
 
 ## Autores
 - [Daniel Santiago Escruceria Resero CC:1087107563]
