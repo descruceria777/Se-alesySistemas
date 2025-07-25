@@ -37,8 +37,7 @@ Proyecto_Final/
 └── 📜 requirements.txt          # Dependencias
 
 
-
- **Explorar Simulaciones:**  
+ ##**Explorar Simulaciones:**  
    - Abrir los cuadernos de Jupyter/Colab en `([https://github.com/descruceria777/Se-alesySistemas/blob/main/proyectofinal-SYS/PROYECTO_.ipynb]) para ver ejemplos de FFT, filtros, QAM, etc.
 
 ## Entregables
