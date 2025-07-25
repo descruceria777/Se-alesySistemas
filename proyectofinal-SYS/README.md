@@ -1,4 +1,4 @@
-# Proyecto Final: De Fourier al WiFi/5G - Anatomía de una Señal Inalámbrica
+ # Proyecto Final: De Fourier al WiFi/5G - Anatomía de una Señal Inalámbrica
 
 ## Descripción del Proyecto
 Este proyecto tiene como objetivo analizar, sintetizar y exponer los principios fundamentales del procesamiento de señales en el contexto de las comunicaciones inalámbricas modernas (Wi-Fi/5G). A través de simulaciones y visualizaciones, se exploran conceptos clave como la Transformada de Fourier, filtrado digital, señales analíticas, modulación QAM y su aplicación en tecnologías como WiFi y 5G. El resultado final incluye un dashboard interactivo en Streamlit y un video explicativo.
