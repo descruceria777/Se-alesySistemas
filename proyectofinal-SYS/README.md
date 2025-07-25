@@ -24,7 +24,7 @@ Este proyecto tiene como objetivo analizar, sintetizar y exponer los principios 
   - Librosa, PyAudio (opcional, para manejo de señales de audio)
   - 
 ## Estructura del Repositorio
-
+bash
 Proyecto_Final/
 ├── 📄 README.md                 # Este archivo
 ├── 📂 codigo/                   # Códigos Python
