@@ -24,20 +24,17 @@ Este proyecto tiene como objetivo analizar, sintetizar y exponer los principios 
   - Librosa, PyAudio (opcional, para manejo de señales de audio)
   - 
 ## Estructura del Repositorio
-ProyFinal_SyS_2025/
-├── README.md # Este archivo
-├── resumen_conceptos_clave/ # Cuaderno Colab con resumen teórico y simulaciones
-│ └── Resumen_Conceptos.ipynb
-├── codigo_fuente/ # Código Python del proyecto
-│ ├── dominio_frecuencia.py # Simulación básica (FFT, filtros)
-│ ├── señales_iq.py # Transformada de Hilbert y señales I/Q
-│ ├── modulacion_qam.py # Implementación de QAM
-│ └── dashboard/ # Código del dashboard en Streamlit
-│ └── app.py
-├── entregables/ # Archivos finales
-│ ├── video_explicativo/ # Enlace al video (YouTube)
-│ └── dashboard_streamlit/ # Cuaderno Colab para ejecutar el dashboard
-└── referencias/ # Artículos, libros y recursos utilizados
+```bash
+Proyecto_Final/
+├── 📄 README.md                 # Este archivo
+├── 📂 codigo/                   # Códigos Python
+│   ├── 📜 fft_filtros.py        # Análisis espectral
+│   ├── 📜 modulacion_qam.py     # Generación de señales I/Q
+│   └── 📜 app_streamlit.py      # Dashboard principal
+├── 📂 entregables/              # Resultados finales
+│   ├── 📜 video_explicativo.mp4 # Enlace a YouTube
+│   └── 📜 presentacion.pdf      # Slides opcionales
+└── 📜 requirements.txt          # Dependencias
 
 
 
